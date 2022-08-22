@@ -14,7 +14,7 @@ The goal of the app was to develop a system that is easy for companies to manage
 
 # Programming Concepts
 * This app was built natively with Kotlin in Android Studio.
-* Used MVVM app architecture to handle communication between the API.
+* Used MVVM app architecture to handle communication between the [API](https://github.com/connorholm/AppointmentAPI).
 * Implemented Google Maps to provide a visiual for each location.
 * Used reverse geocoding to get appointment latitude and longitude.
 * Seperated the Authentication and Appointment logic between different activites with corresponding fragments for each screen.
