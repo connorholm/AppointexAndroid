@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/btn_background_green.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable-v24/btn_big_background_green.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable-v24/btn_big_background_red.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable-v24/et_background.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable-v24/feedback_field_background.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable-v24/ic_logo_nobackground.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable-v24/text_field_background.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/btn_bg_green_selected.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/btn_segmented_left.xml" value="0.11" />
+        <entry key="app/src/main/res/drawable/btn_segmented_right.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/et_background_gray.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/ic_delete.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/ic_plus_square.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/rounded_layout_bg.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/txt_segmented.xml" value="0.173" />
+        <entry key="app/src/main/res/layout/activity_authentication.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.2296875" />
+        <entry key="app/src/main/res/layout/fragment_appointments.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_create_appointment.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.16354166666666667" />
+        <entry key="app/src/main/res/layout/fragment_feedback.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_filters.xml" value="0.2046875" />
+        <entry key="app/src/main/res/layout/fragment_forgot_password.xml" value="0.16354166666666667" />
+        <entry key="app/src/main/res/layout/fragment_home_auth.xml" value="0.2296875" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.18032786885245902" />
+        <entry key="app/src/main/res/layout/fragment_password.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.22552083333333334" />
+        <entry key="app/src/main/res/layout/fragment_timeline.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_update_appointment.xml" value="0.18040832519531258" />
+        <entry key="app/src/main/res/layout/fragment_user.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_appointment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/spinner_item.xml" value="0.17395833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
