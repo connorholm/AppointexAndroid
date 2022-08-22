@@ -27,11 +27,11 @@ android {
             debuggable true
             minifyEnabled false
             versionNameSuffix = "_debug"
-            buildConfigField "String", 'BASE_URL', '"https://boiling-peak-35817.herokuapp.com"'
+            buildConfigField "String", 'BASE_URL', '"https://appointexapi.herokuapp.com"'
         }
         release {
             debuggable false
-            buildConfigField "String", 'BASE_URL', '"https://boiling-peak-35817.herokuapp.com"'
+            buildConfigField "String", 'BASE_URL', '"https://appointexapi.herokuapp.com"'
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             minifyEnabled false
         }
